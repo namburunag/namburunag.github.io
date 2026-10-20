@@ -1,5 +1,3 @@
-Markdown
-
 ---
 layout: post
 title: "Algebra:Chapter0 by Paolo Aluffi"
