@@ -4,4 +4,4 @@ title: "Algebra:Chapter0 by Paolo Aluffi"
 date: 2026-10-18
 ---
 
-I am going through this book "Algebra: Chapter 0 by Paolo Aluffi". Compared to many other algebra books we can say it's a bit modern. He used category theory. I feel that the flow is smooth. There are no tricky parts. For example, to define group action we can see certain number of axioms in some books. In this book he defined it as a homomorphism G->Auto(X), where X is an object in some category. I feel few other definitions are also elegant.
+Reading through Paolo Aluffi's Algebra: Chapter 0 highlights how a modern, category-theoretic approach can transform the study of abstract algebra. The exposition flows naturally, building concepts from the ground up without unnecessary hurdles.A great example is how the book handles group actions. While many textbooks rely on a set of separate axioms, Aluffi defines a group action simply as a homomorphism $G \to \text{Aut}(X)$ for an object $X$ in a given category. It's one of many definitions in the text that feels remarkably unified and elegant.
